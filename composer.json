@@ -1,0 +1,21 @@
+{
+  "name": "lizhouyang/easy-newebpay",
+  "description": "newebpay",
+  "authors": [
+    {
+      "name": "lizhouyang",
+      "email": "lizhouyang@haochang.tv"
+    }
+  ],
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Lizhouyang\\EasyNewebPay\\": "src/Lizhouyang/EasyNewebPay"
+    }
+  }
+}
